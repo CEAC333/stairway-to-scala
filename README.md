@@ -837,7 +837,7 @@ scala> val tup6: Tuple6[Char, Char, String, String, Int, String] = ('u', 'r', "t
 
 ### Set Hierarchy
 
-![alt text](https://lh5.googleusercontent.com/WhGZMb4mL-gxPiNHPv1FkrB5Duimr08xuJTByaN5V4Yzs29IN_ug0v0GMBk2RXtm9e16yZvG7EVIYA=w937-h970)
+![set-hierarchy](https://lh5.googleusercontent.com/U9bUQ_RjodCoNEDbKPxh9LQk-UyWpeCj-v-HHrVrdeOLHL6eTMx1wQ4hgalCSs9R7gjmXSw-TIDxohxDWp6t=w937-h970)
 
 ```
 scala> Set(1,2,3)
@@ -1031,7 +1031,7 @@ res59: scala.collection.mutable.Set[Int] = Set(1, 2, 3)
 
 ### Map Hierarchy
 
-![alt text](https://lh3.googleusercontent.com/4H5ISf9rf-LXP_hvwLCJ6ZyfokTZIRXkcMi63ZmIUKEy-UpgvSMkzbwd9I-yxq6x0sH9-uX-uRtLXve66OPI=w937-h970)
+![map-hierarchy](https://lh5.googleusercontent.com/ZNzzt18fOvNs6xwdCitwYeLwNKR351XRpDqY-x4ciCk0PpoAkWqkPFXd_suGf2MeJjoLEY-UTX5qGI304W5I=w937-h970)
 
 ### Creating, Initializing and Using a Mutable Map
 
